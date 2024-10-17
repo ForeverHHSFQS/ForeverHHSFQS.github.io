@@ -184,10 +184,10 @@ beaudar:
     repo: ForeverHHSFQS/blog-comments
 # giscus 配置参考：https://giscus.app/zh-CN
 giscus:
-    repo: ForeverHHSFQS/blog-comments
-    repo-id: 
-    category: Announcements
-    category-id: 
+    repo: ForeverHHSFQS/ForeverHHSFQS.github.io
+    repo-id: R_kgDOM42hYg
+    category: Q&A
+    category-id:  DIC_kwDOM42hYs4CjcQA
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
